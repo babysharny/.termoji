@@ -21,3 +21,5 @@ fi
 ```
 source .bashrc
 ```
+
+![enter image description here](http://i1.kym-cdn.com/photos/images/facebook/000/674/495/6ff.gif)
